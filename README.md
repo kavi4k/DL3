@@ -12,7 +12,11 @@ DL3 allows you to run the Dolphin-Llama-3 LLM within the AnythingLLM app, all fr
 
 ## **Setup**
 
-### 1.	**Format Your USB Drive:**
+### 1.	**Download and extract the zip file from Google Drive:**
+
+•	https://drive.google.com/file/d/1JTBbA_v85MYFfDb9yTCYOoSqZ9gGi9B0/view?usp=sharing
+
+### 2.	**Format Your USB Drive:**
 
 •	Recommended: 128GB SanDisk USB-A+C thumb drive (though the files only take up around 7GB of disk space, so anything smaller would likely suffice).
 
@@ -20,7 +24,7 @@ DL3 allows you to run the Dolphin-Llama-3 LLM within the AnythingLLM app, all fr
 
 •	**Important:** Name the USB drive DL3.
 
-### 2.	**Transfer Files:**
+### 3.	**Transfer Files:**
 
 •	Copy the following 10 items onto the USB drive:
 
@@ -128,4 +132,4 @@ The environment uses isolated directories for user data (user_home), temporary f
 
 ## **Support**
 
-For any issues, suggestions, or further customisation queries, feel free to reach out or consult the project’s documentation. Enjoy your portable, uncensored LLM experience with DL3!
+For any issues, suggestions, or further customisation queries, feel free to reach out to kavi@4kservices.com.au or consult the project’s documentation. Enjoy your portable, uncensored LLM experience with DL3!
