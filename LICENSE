@@ -1,0 +1,105 @@
+**DL3 USB LLM License**
+
+**Version 1.0**
+
+**Last Updated: March 26, 2025**
+
+**1. Introduction**
+
+DL3 is a **portable, uncensored Large Language Model (LLM) environment** designed to run from a USB drive. It integrates **AnythingLLM**, **Ollama**, and the **Dolphin-Llama-3** model to provide a free and private AI experience. This software is distributed with the intent of providing **free, open access** to AI-powered tools in an isolated environment.
+
+By using, distributing, or modifying DL3, you **agree** to the terms outlined in this license.
+
+⸻
+
+**2. License Grant**
+
+You are granted a **non-exclusive, royalty-free license** to use, modify, and distribute this software **under the following conditions**:
+
+1.	**Personal & Non-Commercial Use** – You may use DL3 freely for personal, educational, or research purposes.
+
+2.	**Attribution** – If you distribute modified versions of this software, you must provide **clear credit** to the original project and include this license.
+
+3.	**No Warranty** – DL3 is provided **“as is”** without any guarantees of functionality, security, or availability. Use at your own risk.
+
+4.	**No Liability** – The developer(s) of DL3 are **not responsible** for any damages, data loss, or legal issues that arise from the use of this software.
+
+⸻
+
+**3. Third-Party Dependencies**
+
+This project **includes and depends on third-party software**, each of which has its own license terms:
+
+•	[**AnythingLLM**](https://github.com/Mintplex-Labs/anything-llm)
+
+•	Licensed under the **MIT License**
+
+•	You must comply with the terms outlined in their repository.
+
+•	[**Ollama**](https://ollama.com/)
+
+•	Licensed under the **Ollama Terms of Service**
+
+•	This software includes **Ollama’s model serving engine**. You must adhere to their licensing conditions.
+
+•	[**Dolphin-Llama-3 LLM**](https://ollama.com/library/dolphin-llama3)
+
+•	Model weights and architecture may be subject to **separate usage policies**.
+
+•	The model is provided **free and open-source**, but you must **respect the original licensing terms** set by the developers.
+
+Users are **responsible** for ensuring that they comply with these licenses when using DL3.
+
+⸻
+
+**4. Restrictions**
+
+You **may NOT**:
+
+1.	**Sell DL3 as a standalone product** or charge for access without **explicit permission**.
+
+2.	**Modify and redistribute DL3** without providing appropriate attribution.
+
+3.	**Use DL3 for illegal, unethical, or malicious activities**, including but not limited to:
+
+•	Misinformation or disinformation campaigns
+
+•	Harmful or exploitative purposes
+
+•	Any activities violating the laws of your jurisdiction
+
+⸻
+
+**5. Modification & Contribution**
+
+•	You **may modify and improve DL3** for personal or research use.
+
+•	If you contribute improvements, **you retain your rights** but grant permission for integration into future versions of DL3.
+
+•	Any contributions should be shared under **similar open-source terms** to keep the project accessible to all.
+
+⸻
+
+**6. Termination**
+
+Your rights under this license will **automatically terminate** if you violate any of the terms above. The developer(s) reserve the right to **revoke access** to future updates if misuse is detected.
+
+⸻
+
+**7. Contact & Support**
+
+For inquiries, contributions, or bug reports, visit https://github.com/kavi4k/DL3.git or contact [kavi@4kservices.com.au](mailto:kavi@4kservices.com.au) for a faster response.
+
+By using DL3, you acknowledge that **you have read and agreed** to these terms.
+
+⸻
+
+**8. Disclaimer**
+
+DL3 is **not affiliated with** AnythingLLM, Ollama, or Dolphin-Llama-3’s developers. It is an independent project that integrates their tools under **their respective licenses**.
+
+**No warranties or guarantees are provided**—use at your own risk.
+
+⸻
+
+**End of License**
